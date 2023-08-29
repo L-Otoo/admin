@@ -7,8 +7,8 @@
 ### endpoints
 
 - GET all employees ``` https://kojoyeboah53i-d962a2da663c.herokuapp.com/api/ordabl/employer/1```
-- PATCH an employee ``` https://kojoyeboah53i-d962a2da663c.herokuapp.com/api/ordabl/update-employer/${id}```
-- DELETE an employee ``` https://kojoyeboah53i-d962a2da663c.herokuapp.com/api/ordabl/employer/${id}```
+- PATCH an employee ``` https://kojoyeboah53i-d962a2da663c.herokuapp.com/api/ordabl/update-employee/${id}```
+- DELETE an employee ``` https://kojoyeboah53i-d962a2da663c.herokuapp.com/api/ordabl/employee/${id}```
 
 ### Task
 
